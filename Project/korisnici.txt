@@ -1,0 +1,2 @@
+menadzer|Ime1|Prezime1|licnaKarta0|Admin|Admin|true|null
+recepcioner|Ime2|Prezime2|licnaKarta1|rec1|rec2|true|null|null
